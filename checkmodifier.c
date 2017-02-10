@@ -1,9 +1,6 @@
  /*
  * checkmodifier.c
  *
- * (c) 2014-2015 Sam Nazarko
- * email@samnazarko.co.uk
- *
  * Return kernel shift_state (depressed modifier keys) bitmask from /dev/console. Requires root access.
  * 0 = no modifier keys
  * 1 = Left/Right Shift
